@@ -1,0 +1,13 @@
+# Environnements virtuels
+voice/
+venv/
+env/
+
+# Fichiers Python compilés
+__pycache__/
+*.pyc
+*.pyo
+
+# Dossiers système
+.DS_Store
+Thumbs.db
